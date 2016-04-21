@@ -1,16 +1,29 @@
-# Car Dealership
+# _Car Dealership_
 
-#### An application that returns cars based on search attributes, February 8, 2016
+#### A site for calculating shipping costs | Epicodus | February 8, 2016
 
-#### By Yvonna Contreras & Nic Netzel
+#### By: Yvonna Contreras & Nic Netzel
 
 ## Description
 
-This application will take input from the user to return which car fits their search description.
+PHP: Car Dealership App. This exercise was used to introduce Objects as a convenient way to store the same information for various entities. We also practiced using forEach loops in the form of a search by the user based on properties. 
 
-## Setup/Installation Requirements
+## Prerequisites
 
-None required.
+You will need the following things properly installed on your computer.
+
+• [MAMP](https://www.mamp.info/en/downloads/)
+
+## Installation
+
+1. Open Terminal and clone into this repository: https://github.com/yvonnapc/php-cardealer.git
+* Change into the new directory
+
+## Running / Development
+
+* Run `composer install` in the project's home directory
+* Start MAMP
+* In your web browser, go to `localhost:8889` to view the app
 
 ## Known Bugs
 
@@ -18,12 +31,15 @@ N/A
 
 ## Support and contact details
 
-You can reach us through our GitHub for any questions, comments, concerns.
+If you have any issues, questions, ideas, or concerns contact me through GitHUb. If you would like to make a contribution to the code, feel free to do so and notify me by e-mail.
 
 ## Technologies Used
 
+* HTML
+* CSS
 * PHP
+* mySQL
 
-### License
+## License
 
-Copyright (c) 2016 |  Epicodus  |  Yvonna Contreras & Nic Netzel
+Copyright &copy; 2016  |  Yvonna Contreras & Nic Netzel  |  Epicodus  |  Portland, OR
